@@ -1,0 +1,111 @@
+.brand-logo{
+  margin-left: 40px;
+  margin-top: 10px;
+}
+.active:active{
+color:#dafbff ;
+}
+nav{
+  height: 90px;
+}
+.image_right{
+  margin-top: 10px;
+  margin-right:40px;
+  font-size: 20px;
+}
+.avatar{
+  margin-right: 15px;
+}
+.s2{
+    text-align: center;
+    margin-top: 20px;
+    width: 40%;
+}
+.hover>p:hover{
+  background: #dafbff ;
+
+}
+.menu{
+  margin-left: 50px;
+}
+.a4{
+  background-color: ;
+  color: white;
+  width: 25px;
+  border-radius: 5px;
+}
+.ms1{
+  height: 100px;
+  display: flex;
+  border: 1px solid #c7c7c7 ;
+}
+.mess{
+  margin-top: 30px;
+  box-shadow: -3px 0px 10px 0px rgba(0,0,0,0.4);
+}
+.margin_t{
+  margin-top: -15px;
+}
+.bolt{
+  font-weight: bold;
+}
+.right-align-3{
+  float: right;
+  margin-top: 15px;
+  margin-right: 20px;
+  background-color: #4b9fed ;
+  width: 20px;
+  text-align: center;
+  border-radius: 3px;
+}
+.text_bl{
+  color: #4b9fed;
+  font-weight: bold;
+}
+.ms1:hover{
+  background-color:#4b9fed;
+  color: white ;
+}
+.text_bl:hover{
+  color: white ;
+}
+.aa2{
+border-right: 1px solid #c7c7c7 ;
+border-top:  1px solid #c7c7c7 ;
+border-bottom:  1px solid #c7c7c7 ;
+  margin-top: 30px;
+margin-left: 20px;
+height: 700px;
+box-shadow: 3px 0px 10px 0px rgba(0,0,0,0.4);
+
+}
+.messag{
+  display: flex;
+}
+.mms{
+  margin-left: 20px;
+  margin-top: -5px;
+}
+.text_bolt{
+  font-weight: bold;
+}
+.times{
+  font-size: 14px;
+  font-weight: normal;
+  margin-left: 10px;
+color: #b8b8b8 ;
+}
+.img{
+  margin-top: 20px;
+}
+.messag2{
+  display: flex;
+  flex-direction: row-reverse;
+}
+.input{
+  margin-top: 90px;
+  margin-left: 10px;
+}
+.input-field{
+  display: flex;
+}

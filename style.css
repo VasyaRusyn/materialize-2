@@ -1,0 +1,147 @@
+.brand-logo{
+  margin-left: 40px;
+  margin-top: 10px;
+}
+.active:active{
+color:#dafbff ;
+}
+nav{
+  height: 90px;
+}
+.image_right{
+  margin-top: 10px;
+  margin-right:40px;
+  font-size: 20px;
+}
+.avatar{
+  margin-right: 15px;
+}
+.s2{
+    text-align: center;
+    margin-top: 20px;
+    width: 40%;
+}
+.hover>p:hover{
+  background: #dafbff ;
+
+}
+.menu{
+  margin-left: 50px;
+}
+.a4{
+  background-color: ;
+  color: white;
+  width: 25px;
+  border-radius: 5px;
+}
+.page{
+  border-radius: 5px;
+box-shadow: 0px 2px 11px 0px rgba(0,0,0,0.4);
+
+}
+.waves-effect{
+  margin-top: 30px;
+  width: 90%;
+  margin-bottom: 20px;
+}
+.friends{
+  border-radius: 5px;
+margin-top: 20px;
+display: flex;
+justify-content:space-between;
+flex-wrap:wrap;
+max-width: 250px;
+}
+.flex{
+  display: flex;
+  flex-direction: column;
+float: left;
+
+}
+.text-left{
+margin-left: 20px;
+}
+.page1{
+margin-left: -130px;
+}
+.margin-top{
+    margin-top: 40px;
+}
+.margin-top2{
+    margin-top:140px;
+}
+.friends2{
+  border-radius: 5px;
+display: flex;
+justify-content:space-between;
+flex-wrap:wrap;
+max-width: 250px;
+margin-top: -30px;
+}
+.page22{
+  margin-left: 15px;
+}
+.box{
+  margin-top: 20px;
+  box-shadow: 0px 2px 11px 0px rgba(0,0,0,0.4);
+    border-radius: 5px;
+}
+.page3{
+  margin-right: 10px;
+}
+.luella{
+
+  margin-top: 12px;
+  }
+.header{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.Birthday{
+  color: #d0d0d0 ;
+}
+.Orleans{
+  margin-left: 150px;
+}
+.August{
+  margin-left: 125px;
+}
+.card-action2{
+  display: flex;
+  justify-content: space-around;
+  box-shadow: none;
+  box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.1);
+  margin-top: 20px;
+  padding-top: 30px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.card-content{
+  margin-top: 20px;
+}
+.center-align{
+  color: #64b5f6;
+}
+.image{
+  margin-left: 20px;
+}
+.name{
+display: flex;
+}
+.text-lulela{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.card-content{
+  margin-top: -20px;
+
+}
+.text-lulela2{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 12px;
+color: #cbcbcb ;
+}
+.card-action{
+  display: flex;
+}
